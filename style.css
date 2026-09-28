@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa; /* Cor de fundo mais suave */
+}
+
+h1 {
+    font-weight: bold;
+    color: #343a40; /* Cor escura para o título */
+}
+
+section {
+    background-color: #ffffff; /* Fundo branco para contraste */
+    border-radius: 10px; /* Bordas arredondadas */
+    padding: 40px;
+    margin: 20px auto; /* Centraliza a seção */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adiciona sombra */
+}
+
+p {
+    font-size: 1.2rem; /* Aumenta o tamanho do texto */
+}
